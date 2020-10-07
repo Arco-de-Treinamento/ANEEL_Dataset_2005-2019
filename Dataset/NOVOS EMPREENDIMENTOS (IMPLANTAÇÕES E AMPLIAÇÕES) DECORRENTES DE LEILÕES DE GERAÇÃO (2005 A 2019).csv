@@ -1,4 +1,4 @@
-Tipo;Usina;Tipo de Leilão;Leilão;Pot. (MW);"Garantia Física (MWmédio)";Lotes Vendidos;Preço (R$/MW);Localização;Fonte;Mod.;Invest. Previsto  (R$);Empresa / Consórcio 
+Tipo;Usina;Tipo_de_Leilão;Leilão;Pot_MW;"Garantia Física_MWmédio";Lotes_Vendidos;Preço_R$/MW;Localização;Fonte;Mod;Invest_Previsto_R$;Empresa/Consórcio 
 EOL;VENTOS DE SANTA LEIA 01;A-6;Leilão 04/2019;8,4;5;15;98,99;RN;VENTO;PIE; R$33.600.000,00 ;VENTOS DE SANTA LÉIA ENERGIAS RENOVÁVEIS S.A.
 EOL;VENTOS DE SANTA LEIA 02;A-6;Leilão 04/2019;8,4;4,9;15;98,98;RN;VENTO;PIE; R$33.600.000,00 ;VENTOS DE SANTA LÉIA ENERGIAS RENOVÁVEIS S.A.
 EOL;VENTOS DE SANTA LEIA 03;A-6;Leilão 04/2019;8,4;4,9;15;98,97;RN;VENTO;PIE; R$33.600.000,00 ;VENTOS DE SANTA LÉIA ENERGIAS RENOVÁVEIS S.A.
