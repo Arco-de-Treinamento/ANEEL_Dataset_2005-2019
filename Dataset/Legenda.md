@@ -1,4 +1,6 @@
-### Legendas:
+# Legendas:
+
+## Coluna: "Tipo"
 
  * UHE - Usina Hidrelétrica de Energia       
  * UFV - Central Geradora Solar Fotovoltaica 
@@ -8,3 +10,9 @@
  * UTN - Usina Termonuclear                  
  * EOL - Central Geradora Eolielétrica       
  * CGU - Central Geradora Undi-elétrica  
+
+## Coluna: "Mod."
+
+* PIE - Produtor Independente de Energia Elétrica
+* AP  - Autoprodutor de Energia Elétrica
+* AP  - Autoprodutor com Excedente de Energia Elétrica
