@@ -13,7 +13,7 @@ Aluno    : José Manoel Freitas da Silva | GitHub: https://github.com/JosManoel
 
 ---
 
-Trabalho de conclusão do curso de Python para Visualização e Análise de Dados, ofertado pelo IMD (Instituto Metrópole Digital), abordando como tema o avanço tecnológico do Brasil em relação a utilização de fontes de energia sustentável, tendo como fundamentação o os objetivos 7 e 12 propostos pelo plano de desenvolvimento sustentável da ONU, sendo eles respectivamente a energia limpa e acessível e o consumo e produção responsável, contidos na Agenda ONU 2030.
+Trabalho de conclusão do curso de **Python para Visualização e Análise de Dados**, ofertado pelo IMD (Instituto Metrópole Digital), abordando como tema o avanço tecnológico do Brasil em relação a utilização de fontes de energia sustentável, tendo como fundamentação o os objetivos 7 e 12 propostos pelo plano de desenvolvimento sustentável da ONU, sendo eles respectivamente a energia limpa e acessível e o consumo e produção responsável, contidos na Agenda ONU 2030.
 
 
 ## Leilões de produção de energia (2005-2019) - ANEEL
