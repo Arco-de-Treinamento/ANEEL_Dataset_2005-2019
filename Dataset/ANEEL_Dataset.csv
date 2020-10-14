@@ -1,4 +1,4 @@
-Tipo,Usina,Tipo (Leilão),Leilão,Pot. (MW),"Garantia Física (MWmédio)",Lotes Vendidos,Preço (R$/MW),Localização,Fonte,Mod.,Invest. Previsto  (R$),Empresa / Consórcio 
+Tipo,Usina,Tipo_de_Leilao,Leilao,Pot_MW,Garantia_Fisica_MW_medio,Lotes_Vendidos,Preco_R$/MW,Localizacao,Fonte,Mod,Invest_Previsto_R$,Empresa/Consórcio 
 UHE,UHE Foz do Rio Claro,A-5,Leilão 2/2005,"68,40","41,00",41,"108,04",Caçú e São Simão/GO,Água,PIE,"281.032.620,00",Alusa Engenharia Ltda
 UHE,UHE São José,A-5,Leilão 2/2005,"51,00","30,40",30,"115,80",Salvador das Missões e Rolador / RS,Água,PIE,"208.985.970,00",Alusa Engenharia Ltda
 UHE,UHE Passo São João,A-5,Leilão 2/2005,"77,00","39,00",37,"112,55",Dezesseis de Novembro e Roque Gonzales / RS,Água,PIE,"267.595.880,00",Eletrosul S.A.
